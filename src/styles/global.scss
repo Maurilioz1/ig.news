@@ -6,14 +6,17 @@
 }
 
 :root {
-    --white: #ffffff;
+    --white: #FFFFFF;
 
-    --gray-100: #edf2f7;
-    --gray-300: #cbd5e0;
+    --gray-100: #EDf2f7;
+    --gray-300: #CBD5E0;
+    --gray-700: #2D3748;
+    --gray-800: #1A202C;
     --gray-900: #171923;
 
-    --cyan-500: #00b5d8;
-    --yellow-500: #d69e2e;
+    --cyan-500: #00B5D8;
+    
+    --yellow-500: #D69E2E;
 }
 
 @media (max-width: 1080px) {
